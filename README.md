@@ -52,13 +52,3 @@ A React-based food ordering application with cart functionality and meal categor
 5. **Cart**: Manages cart display and interactions
 6. **Item**: Individual cart item component
 
-## Installation ⚙️
-
-### Prerequisites
-- Node.js (v14+)
-- npm (v6+)
-
-### Steps
-1. Clone repository:
-   ```bash
-   git clone [your-repo-link]
