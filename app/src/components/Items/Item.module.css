@@ -1,0 +1,89 @@
+.itemCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 30px;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.itemCard img{
+    width: 80px;
+    height: 80px;
+}
+
+.nameNbuttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.count{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid red;
+}
+
+.count button{
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    color: red;
+}
+
+.count p{
+    color: red;
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.right button{
+    border: none;
+    outline: none;
+}
+
+.right img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.price{
+    font-weight: 600;
+    font-size: 14px;
+    width: 57px;
+    height: 25px;
+    background-color: #FF4343;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    font-weight: bold;
+    color: #FF4343;
+    font-size: 20px;
+}

@@ -4,6 +4,8 @@
     padding: 6px 12px 6px 12px;
     border-radius: 5px;
     cursor: pointer;
+    outline: none;
+    border: none;
 }
 
 .btn:hover{
