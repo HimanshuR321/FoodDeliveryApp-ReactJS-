@@ -1,6 +1,6 @@
 # Food Delivery App 🍔🥗
 
-A React-based food ordering application with cart functionality and meal categorization.
+A React-based food ordering application with cart functionality and meal categorization (sorry for not much styling).
 
 ## Features 🚀
 
